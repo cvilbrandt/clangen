@@ -2,8 +2,6 @@
     "MASKED_TAIL": ["MASK", "ROSETAIL"],
     "MASKED_ROBIN": ["MASK", "ROBIN"],
     "MASKED_ONE": ["ONE", "MASK"],
-<<<<<<< Updated upstream
-<<<<<<< HEAD
     "MASKED_SHILOH": ["MASK", "SHILOH"],
     "PIECEMEAL": ["MASK", "CHEST", "ROSETAIL", "MINIMALTHREE"],
     "RED_SIDE": ["SIDEMASK", "REDTAIL"],
@@ -35,11 +33,8 @@
     "CHIMERA_THREE": ["CHIMERA", "THREE"],
     "MOTTLED_THREE": ["MOTTLED", "THREE"],
     "SHILOH_FOUR": ["SHILOH", "FOUR"]
-=======
-=======
     "MASKED_SHILOH": ["MASK", "SHILOH"],
     "PIECEMEAL": ["MASK", "CHEST", "ROSETAIL", "MINIMALTHREE"],
->>>>>>> Stashed changes
     "RED_SIDE": ["SIDEMASK", "REDTAIL"],
     "RED_ROBIN": ["REDTAIL", "ROBIN"],
     "ROBIN_TAIL": ["ROBIN", "ROSETAIL"],
@@ -62,16 +57,11 @@
     "MINIMAL_ONETWO": ["MINIMALONE", "MINIMALTWO"],
     "MINIMAL_TWOTHREE": ["MINIMALTWO", "MINIMALTHREE"],
     "MINIMAL_THREEFOUR": ["MINIMALTHREE", "MINIMALFOUR"],
-<<<<<<< Updated upstream
     "MINIMAL_ALL": ["MINIMALONE", "MINIMALTWO", "MINIMALTHREE", "MINIMALFOUR"]
->>>>>>> fbf64f11e2d5db24fedc084647432de2cf359140
-=======
-    "MINIMAL_ALL": ["MINIMALONE", "MINIMALTWO", "MINIMALTHREE", "MINIMALFOUR"],
     "EYEDOT_ONE": ["EYEDOT", "ONE"],
     "BRIE_ONE": ["BRIE", "ONE"],
     "ARMTAIL_ONE": ["ARMTAIL", "ONE"],
     "CHIMERA_THREE": ["CHIMERA", "THREE"],
     "MOTTLED_THREE": ["MOTTLED", "THREE"],
     "SHILOH_FOUR": ["SHILOH", "FOUR"]
->>>>>>> Stashed changes
 }
